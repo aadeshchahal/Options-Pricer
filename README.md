@@ -2,6 +2,10 @@
 
 A high-performance Options Pricing and Analytics tool built with **Python**, **Streamlit**, **NumPy**, and **SciPy**.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://options-pricer-aadeshchahal.streamlit.app/)
+**Live Demo:** [https://options-pricer-aadeshchahal.streamlit.app/](https://options-pricer-aadeshchahal.streamlit.app/)
+
+
 ## Features
 - **Black-Scholes-Merton Pricing**: European Call/Put pricing with Greeks (Delta, Gamma, Vega, Theta, Rho).
 - **Vectorized Monte Carlo**: High-speed simulation of 100,000+ price paths using NumPy.
